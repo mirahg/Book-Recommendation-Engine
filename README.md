@@ -4,6 +4,7 @@
 ### Mirah Gordon, Sara Adra, Anika Das, Genny Jawor
 
 Final project utilizing MongoDB and Neo4j to create a book recommendation system.
+
 Data sourced from UCSD's Goodreads dataset (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home).
 
 Two jupyter notebook notebooks contain all the necessary code for this project:
