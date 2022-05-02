@@ -7,7 +7,7 @@ Final project utilizing MongoDB and Neo4j to create a book recommendation system
 
 Data sourced from UCSD's Goodreads dataset (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home).
 
-Two jupyter notebook notebooks contain all the necessary code for this project:
+Two jupyter notebooks contain all the necessary code for this project:
 
 * Books_Mongo has code for loading in data with MongoDB and cleaning data into an exportable form for Neo4j.
 
