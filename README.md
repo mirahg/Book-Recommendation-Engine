@@ -1,5 +1,5 @@
 # Book-Recommendation-Engine
-## Final Project for DS4300 at Northeastern University
+## Final Project for DS4300 (Large Scale Information Storage & Retrieval) at Northeastern University
 
 ### Mirah Gordon, Sara Adra, Anika Das, Genny Jawor
 
